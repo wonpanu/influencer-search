@@ -1,11 +1,5 @@
-<!--
 
-To help us merge your PR, make sure to follow the instructions below:
-- Create or update the documentation.
-- Create or update the tests.
-- Refer to the issue you are closing in the PR description - fix #issue
-- Specify if the PR is in WIP (work in progress) state or ready to be merged
--->
+#### Name of this PR
 
 #### Previous
 <!--
@@ -17,10 +11,43 @@ Description about result before merge this PR
 Description about result after merge this PR
 -->
 
+#### Description of what you did:
+
+<!--
+Replace [ ] by [x] to check these checkboxes!
+-->
+
+#### My PR is a:
+
+- [ ] 💥 Breaking change
+- [ ] 🐛 Bug fix
+- [ ] 🚀 New feature
+
+#### Main update on the:
+
+- [ ] amqputil
+- [ ] api-core
+- [ ] elasticsearch
+- [ ] email
+- [ ] log-summary-job
+- [ ] log-worker
+- [ ] logger
+- [ ] match
+- [ ] match-worker
+- [ ] msgutil
+- [ ] rematch-worker
+- [ ] repo
+- [ ] sentiment
+- [ ] spider-message
+- [ ] track
+- [ ] transformer-spider-to-ze-go
+- [ ] transformer-worker
+- [ ] types
+- [ ] urlutil
+- [ ] utils
+- [ ] ze-web-component-2
+- [ ] zelog
 
 #### Main change list:
-<!--
-Replace - item1 with your change list
--->
 - item1
 - item1
